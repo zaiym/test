@@ -9,6 +9,9 @@ import org.springframework.context.annotation.Configuration;
 
 import javax.sql.DataSource;
 
+/**
+ * 启动类
+ */
 @SpringBootApplication
 public class DiskmonitorApplication {
 
